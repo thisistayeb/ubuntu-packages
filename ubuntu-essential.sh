@@ -4,7 +4,7 @@
 apt update && apt upgrade -y 
 
 # Tools
-apt install -y git ssh curl tmux software-properties-common apt-transport-https wget
+apt install -y git ssh curl tmux software-properties-common apt-transport-https wget unrar rar
 
 # Codecs and VLC
 apt install -y ubuntu-restricted-extras vlc vlc-data ffmpeg

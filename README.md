@@ -6,3 +6,5 @@ This repo contains a script for installing my essential packages in ubuntu. By r
 ```bash
 sudo curl https://raw.githubusercontent.com/thisistayeb/ubuntu-packages/main/ubuntu-essential.sh | sudo sh
 ```
+
+
